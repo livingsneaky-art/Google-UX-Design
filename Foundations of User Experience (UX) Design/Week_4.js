@@ -152,5 +152,12 @@
     https://implicit.harvard.edu/implicit/selectatest.html
 */
 
+//How to reduce research bias in user research
+
+
+//Week 4 review
+//Wrap-up: integrating research into the design process
+
+
 
 
