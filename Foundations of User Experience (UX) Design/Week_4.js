@@ -158,6 +158,28 @@
 //Week 4 review
 //Wrap-up: integrating research into the design process
 
+//Glossary
 
+//Weekly Challenge 4: Research in the design process
+
+//Course review
+//Congratulations on completing Course 1: Foundations of User Experience Design
+/*
+    - Discovered user experience and why it's important for users and businesses
+    - Learned what makes a design good for the user
+    - Identified different disciplines within UX and what sort of tasks you might do as a UX designer
+    - Learned common tools, frameworks, and platformas used in UX design
+    - Indentified steps of a design sprint and how an entry-level designer takes part
+*/
+
+//Share your experience
+
+//Start the next course
+/*
+  In Course 2, you will complete the first steps of the design process for a project that you’ll be able to include in your professional portfolio. You will learn how to: 
+    - Empathize with users and understand their pain points
+    - Define user needs using problem statements
+    - Come up with lots of ideas for solutions to those user problems
+*/
 
 
