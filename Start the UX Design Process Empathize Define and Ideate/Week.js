@@ -1,1 +1,0 @@
-//Start the UX Design Process: Emphathize, Define, and Ideate
