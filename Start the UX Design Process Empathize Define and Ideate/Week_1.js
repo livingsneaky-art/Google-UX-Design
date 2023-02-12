@@ -280,3 +280,42 @@
 //Test your knowledge on user pain points
 
 //Create personas
+//Understand personas
+/*
+    - Personas
+
+    Benefits of personas
+      - Build empathy
+      - Tell stories
+      - Stress-test designs
+*/
+
+//Learn more about personas
+/*
+    - Building personas
+        For the dog walker app, think about a scenario from the perspective of a dog owner:
+            - Daniela is a 48-year-old freelance film producer who lives with their partner Priya and their two children in Atlanta, 
+            Georgia. The family recently adopted a golden retriever puppy named Cisco. 
+            - The family takes regular trips with the kids for gymnastics competitions, and Daniela often travels for long periods of 
+            time when filming. Daniela wants to find someone to take care of the puppy, Cisco, while the family is away or busy. 
+            - Daniela’s biggest concern is trusting a stranger to come into their home and to take care of their puppy. Daniela would 
+            be most comfortable hiring someone who knows how to properly care for puppies and can take Cisco on walks and to dog parks. 
+*/
+
+//Practice Activity: Create presonas for the CoffeeHouse project
+/*
+    https://docs.google.com/document/d/1R7ZJyCDFVKaqOUSr8mDMnpZlE3SvqBbEVEuIddNSF-Q/edit
+    https://docs.google.com/presentation/d/1DqEY8wIduJ3JenP_Tu2CzhyrFo8PIe6ilhcwPreOdtE/edit#slide=id.p1
+
+*/
+
+//Week 1 review
+//Wrap-up: Empathizing with users and defining pain points
+
+//Glossary
+
+//Peer Review Success
+
+//Weekly challenge 1: Create personas for your portfolio project
+
+//Weekly challenge 1: Create personas for your portfolio project
