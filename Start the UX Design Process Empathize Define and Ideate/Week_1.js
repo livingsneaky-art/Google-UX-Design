@@ -213,3 +213,70 @@
 /*
     https://docs.google.com/document/d/1OK2DvlpyblFNgQ902h1HNnTG-0oF87pskG2-8yjrZ2c/edit#
 */
+
+//Optional: Learn about empathy maps
+//Empathy Maps
+/*
+    - Empathy maps
+          - An easily-understood chart that explins everything designers have learned about a type of user
+              User
+               - Says
+                   "I wish food delivery apps provided more accurate time estimates."
+               - Thinks
+                   Skeptical about "30 minute or less" guarantee
+               - Does
+                   Only orders delivery when eating at home alone
+               - Feels 
+                   Fustrated that delivery services aren't reliable    
+        - Record feed back single user
+        - Aggregate feedback from multiple users
+    - Aggregated empathy maps
+              Aggregate
+               - Says
+                   "I wish I could live track my delivery."
+               - Thinks
+                   Wants delivery option for favorite restaurants
+               - Does
+                   Orders delivery on weekends more than weeknights
+               - Feels 
+                   Frustrated by lack of direction in apps
+*/
+
+//Build an empathy map
+/*
+    Empathy map
+        https://docs.google.com/document/d/1oTGQSAzn9CdbKet1GX4kalinyyMzo14HteKHKSjjMaI/edit
+
+    Creating an empathy map
+        - Add the user's name
+        - The "SAYS" square
+        - The "THINKS" square
+        - The "DOES" square
+        - The "FEELS" square
+*/
+
+//Indentify user pain points
+/*
+    - Pain points
+        Type of Pain Points
+             - Financial
+             - Product
+             - Process
+             - Support
+        Brain + Heart = User Experience
+*/
+
+//Pain points vs. solution
+
+//Optional - Case studies: Products that address pain points
+/*
+    To learn more about user pain points, check out these real-world case studies from Google and Airbnb. Try to identify 
+    the unique pain points that led to major design changes!
+        - Read about the methodology behind the 2016 Google Font redesign. 
+        - Learn about how a new color system helped simplify Google Maps and make it more accessible.
+        - Examine how Airbnb revamped their product design in response to the ways in which the world changed during the COVID-19 pandemic. 
+*/
+
+//Test your knowledge on user pain points
+
+//Create personas
