@@ -202,8 +202,6 @@
 
 //Optional: Conduct user interviews
 
-//Optional: Conduct user interviews
-
 //Activity: Build empathy with users to inform your research
 /*
     https://docs.google.com/document/d/1_G6ZuLixniw2vbwo7Qi1LLhpj4g2Ah_KSNDK1wY4LQA/template/preview?resourcekey=0-F9RhhH0XdA6so0Yyj1e4iA
@@ -315,7 +313,5 @@
 //Glossary
 
 //Peer Review Success
-
-//Weekly challenge 1: Create personas for your portfolio project
 
 //Weekly challenge 1: Create personas for your portfolio project
