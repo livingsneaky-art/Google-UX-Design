@@ -1,2 +1,35 @@
 //Creating user stories and user journey maps
 //Craft user stories
+
+//Welcome to week 2
+
+//Craft user stories
+/*
+    User story = a short, simple description of a software feature told from the perspective of the 
+                 person who desires the new capability, usually a user or customer of the system.
+    Advantages of user stories:
+        - Prioritize design goals
+        - Unite the team
+        - Inspire empathetic design decisions
+        - Personalize pitches to stakeholders
+
+    User story format:
+        As a [user], I want [feature] so that [benefit]
+
+    Learn more about user stories
+        As a type of user (who), I want to action (what) so that benefit (why).
+*/
+
+//Learn more about user stories
+/*
+    As a type of user (who), I want to action (what) so that benefit (why).
+*/
+
+//Practice Activity: Craft user stories for the CoffeeHouse project
+/*
+    https://docs.google.com/presentation/d/1xw_CucW3BsFNCduR9r2f9FAo6XuRuqkB4hZ6K6QMstQ/edit?usp=sharing
+*/
+
+//Activity Exemplar: Craft user stories for the CoffeeHouse project
+
+//Activity: Craft user stories for your portfolio project
