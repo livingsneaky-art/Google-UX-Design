@@ -33,3 +33,24 @@
 //Activity Exemplar: Craft user stories for the CoffeeHouse project
 
 //Activity: Craft user stories for your portfolio project
+
+//Activity Exemplar: Craft user stories for your portfolio project
+/*
+    (who, what, and why) is answered for each persona
+*/
+
+//Consider edge cases
+/*
+    Happy path
+        - A user story with a happy ending
+    
+    Edge case 
+        - A rare situation or unexpected problem that interrupts a standard user experience
+
+    Spotting & resolving edge cases
+        - Create a personas and user stories
+        - Thoroughhly review the project before launch
+        - Use wireframes
+*/
+
+//Ayan - Real world example of edge cases
