@@ -90,3 +90,87 @@
 
 //Share your problem statement
 
+
+//Create a value proposition
+//Determine a value proposition
+/*
+    Value proposition
+        - The reason why a consumer should use a product or service
+
+        What does your product do?
+        Why should the user care?
+
+        Example: Gym app
+            - Easy access to book private trainers
+            - Reservations for popular machines
+            - Make music requests in the gym
+            - On-demand videos for in-home exercises
+            - Sign-up for workout classes
+            - Track workouts on app via fitness devices
+*/
+
+//Self-Reflection: Create a value proposition for your portfolio project
+/*
+    The specific value is the convenience of the user to order in order to save time. 
+    The features and benefits are Personalized nutrition recommendations, Convenient 
+    ordering system, Automatic reminder for feeding and ordering, Detailed nutritional 
+    information, and Health tracking and monitoring. This features will satisfy the user needs.
+*/
+
+
+//Optional - Explore the influence of psychology in UX design
+//Understand human factors
+/*
+    The human factor
+        - Describes the range of variables humans bring to their product interactions
+
+    Common human factors that inform design
+        - Impatience
+        - Limited memory
+        - Needing analogies
+        - Limited concentration
+        - Changes in need
+        - Needing motivation
+        - Prejudices
+        - Fears
+        - Making errors
+        - Misjudgement
+    
+    Mental models
+        - Internal maps that allow humans to predict how something will work
+
+    Feeback loops
+        - The outcome a user gets at the end of a process
+*/
+
+//Explore psychology principles that influence design
+/*
+    Von Restorff effect
+    (Isolation effect)
+        - When multiple, similar objects are present, the
+        one that differs from the rest is most likely to 
+        be remembered
+
+    Call-to-action (CTA)
+        - A visual prompt that tells the user to take action
+
+    Serial position effect
+        - When people are given a list of items, they are
+        more likely to remember the first few and the
+        last few, while the items in the middle tend to blur
+
+    Hick's Law 
+        - The more options a user has the longer it takes for them to make a decision
+*/
+
+//Psychology influences user behavior
+
+//Test your knowledge on how psychology and human factors influence design
+
+
+//Week 3 review
+//Wrap-up: Defining user problems
+
+//Glossary
+
+//Weekly Challenge 3: Define user problems
