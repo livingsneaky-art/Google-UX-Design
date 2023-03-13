@@ -54,3 +54,23 @@
 */
 
 //Ayan - Real world example of edge cases
+
+
+//Create user journey map
+/*
+    User journey
+        - The series of experiences a user has as they achieve a specific goal
+
+    Benefits of user journey mapping
+        - Helps UX designers create obstacle-free paths for users
+        - Reduces impact of designer bias
+        - Highlights new pain points
+        - Idenfities improvement opportunities
+*/
+
+//Optional - User journey map slides
+
+//Practice Activity: Create user journey maps for the CoffeeHouse project
+
+//Activity Exemplar: Create user journey maps for the CoffeeHouse project
+
