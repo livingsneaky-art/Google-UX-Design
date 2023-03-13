@@ -146,3 +146,10 @@
 
 //Ungraded Plugin: Design accessible experiences
 
+
+//Week 2 review
+//Wrap-up: Creating user stories and user journey maps
+
+//Glossary
+
+//Weekly Challenge 2: Create a user journey map for your portfolio project
