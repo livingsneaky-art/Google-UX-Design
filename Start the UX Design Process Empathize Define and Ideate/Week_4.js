@@ -136,5 +136,3 @@
 
 //Activity Exemplar: Create a competitive audit for the CoffeeHouse project
 
-
-
