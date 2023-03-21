@@ -136,3 +136,11 @@
 
 //Activity Exemplar: Create a competitive audit for the CoffeeHouse project
 
+//Create a competitive audit
+
+//How to present a competitive audit
+
+//Use insights from competitive audits to ideate
+
+//Vanessa - My journey to UX
+
