@@ -143,4 +143,7 @@
 //Use insights from competitive audits to ideate
 
 //Vanessa - My journey to UX
+/*
+    "Research is like party planning. You have to just think of everything ahead of time."
+*/
 
