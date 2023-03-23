@@ -148,4 +148,42 @@
 */
 
 
+//Brainstorm design ideas by sketching
+//Use How Might We to ideate
+/*
+    How Might We?
+        - "How" - Explore a bunch of ideas
+        - "Might" - Our ideas are possible solutions, not the only solution
+        - "We" - Collaborative effort
+    
+    Ways to create How Might We phrases
+        - Amp up the good
+        - Explore the opposite
+        - Change a status quo
+        - Break the point-of-view into pieces
+*/
+
+//Best practices for How Might We
+/*
+    Frame HMW questions
+        - Arm up the good
+        - Explore the opposite
+        - Change a status quo
+        - Break the point-of-view into pieces
+        - Remove the bad
+        - Go after the adjective
+        - Question an assumption
+        - Create an analogy using the established need or context
+        - Identify unexpected resources that can provide assistance
+
+    Best practices for thinking of HMWs
+        - Be broad
+        - But don't be too broad
+        - Make multiple drafts
+        - Be creative
+        - Write as many HMWs as you can
+*/
+
+//Use Crazy Eights to ideate
+
 
