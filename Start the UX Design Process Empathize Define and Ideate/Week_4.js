@@ -186,4 +186,70 @@
 
 //Use Crazy Eights to ideate
 
+//Best practices for Crazy Eights
+/*
+    - Start with a large sheet of paper
+    - Grab something to draw with
+    - Set your timer to eight minutes
+    - Let the ideas flow
 
+    Best practices
+        - Do a creative warm-up exercise
+        - Make sure your problem is well defined
+        - Don't judge your ideas
+        - Don't judge other people's ideas
+        - Include a diverse group
+        - Ideate in a comfortable environment
+        - Don't be afraid of sketching
+
+    Benefits of Crazy Eights
+        - generates a lot of ideas in a small amount of time
+        - think outside the box
+*/
+
+//Optional - Practice Activity: Ideate for your CoffeeHouse project using Crazy Eights
+
+//Optional - Activity Exemplar: Ideate for your CoffeeHouse project using Crazy Eights
+
+//Consider user journeys during ideation
+/*
+    User journey
+        - The series of experiences a user has while interacting with a product
+*/
+
+
+//Week 4 review
+//Wrap-up: Ideating design solutions
+
+//Glossary
+
+//Weekly Challenge 4: Create a competitive audit and report for your portfolio project
+
+
+//Course review
+//Congratulations on completing Course 2: Empathize, Define, and Ideate
+/*
+    - Learned the basics of UX research
+    - Empathize with users
+    - Explored personas
+    - Wrote a user story
+    - Identified happy paths and edge cases
+    - Discovered the benefits of user journey maps
+    - Created problem statements and hypothesis statements
+    - Ideate
+*/
+
+//Share your course experience
+
+//Start the next course
+/*
+    In Course 3, you will continue to create your portfolio project for a mobile app. You will learn how to: 
+        - Create two types of storyboards: big picture and close up
+        - Apply the basics of drawing
+        - Create paper wireframes for mobile app design
+        - Develop digital wireframes in a tool called Figma
+        - Build a paper prototype to add interactivity to designs
+        - Design a low-fidelity prototype in Figma
+        - Recognize implicit bias and deceptive patterns in design
+You're well on your way to becoming a UX designer! Keep up the great work in the next course. 
+*/
